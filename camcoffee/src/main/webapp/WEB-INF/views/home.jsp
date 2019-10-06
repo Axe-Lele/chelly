@@ -2,22 +2,22 @@
 <%@ page session="false"%>
 <html>
 <<<<<<< HEAD
-    <head>
-        <title>Home</title>
-    </head>
-    <body>
-        <h1>Hello world!</h1>
+<head>
+<title>Home</title>
+</head>
+<body>
+	<h1>Hello world!</h1>
 
-        <P>The time on the server is ${serverTime}.</P>
-    </body>
+	<P>The time on the server is ${serverTime}.</P>
+</body>
 =======
 <head>
 <title>Home</title>
 </head>
 <body>
-    <h1>Hello world!</h1>
+	<h1>Hello world!</h1>
 
-    <P>The time on the server is ${serverTime}.</P>
+	<P>The time on the server is ${serverTime}.</P>
 </body>
 >>>>>>> branch 'master' of https://github.com/Axe-Lele/chelly.git
 </html>
